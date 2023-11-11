@@ -56,6 +56,9 @@ img{
     .image{
         margin-bottom: 0;
     }
+    img{
+        margin-bottom: 0;
+    }
     .section-center{
         display: grid;
         grid-template-columns: 1fr 1fr;
